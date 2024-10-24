@@ -7,8 +7,7 @@ Using Front-End Mentor's start, and using my knowledge and resouces to make it m
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://mshjr.github.io/Recipe-Page/)
 
 ### Built with
 
